@@ -1,0 +1,16 @@
+{
+  "author": "Josh Faul <josh.faul@gmail.com>",
+  "name": "jocafa.com",
+  "description": "jocafa.com",
+  "version": "0.0.0",
+  "homepage": "jocafa.com",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.4.11"
+  },
+  "dependencies": {
+	},
+  "devDependencies": {}
+}
